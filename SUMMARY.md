@@ -1,0 +1,45 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Guidelines](usdr-tool-guidelines.md)
+* [Get Started](getstarted.md)
+* [ADMIN ONLY](admin-only.md)
+* [\[TOOL PAGE TEMPLATE\]](tool-template.md)
+* [Analytics Tools](analytics_tools/README.md)
+  * [Amplitude](analytics_tools/amplitude1.md)
+
+## Analytics Tools
+
+* [Amplitude](analytics-tools/amplitude2.md)
+
+## Data Tools
+
+* [Tableau](data-tools/tableau.md)
+
+## Design Tools
+
+* [Miro](design-tools/miro.md)
+* [Figma](design-tools/figma.md)
+
+## Forms Tools
+
+---
+
+* [JotForm](jotform.md)
+
+## Productivity Tools
+
+---
+
+* [Asana](asana.md)
+
+## Hosting Tools
+
+## Communications Tools
+
+* [Untitled](communications-tools/untitled.md)
+
+## NEW CATEGORY
+
+* [Untitled](new-category/untitled.md)
+
