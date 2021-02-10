@@ -37,11 +37,11 @@
 
 ## Communications Tools
 
-* [Untitled](communications-tools/untitled.md)
+* [MailChimp Landing Pages](communications-tools/mailchimp.md)
 
 ## NEW CATEGORY
 
 ---
 
-* [MailChimp Landing Pages](mailchimp.md)
+* [Untitled](untitled.md)
 
