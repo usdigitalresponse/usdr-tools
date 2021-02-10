@@ -2,23 +2,21 @@
 
 LAST UPDATED: Feb. 10, 2021
 
-‌JotForm
+## ‌JotForm
 
-### NOTE: This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks! <a id="h.jqce1854h7ip"></a>
+**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!
 
-### Author <a id="h.95b9uxw65r0v"></a>
+## Author
 
 Alex Allain, alex@usdigitalresponse.org
 
 https://www.jotform.com/
 
-‌
-
 ## Description <a id="h.7w7zez36b1wy"></a>
 
 ‌A drag and drop form builder with light programmable capabilities.
 
-Tags
+## Tags
 
 * 🌈 No-code
 * 🎁 Free
@@ -27,8 +25,6 @@ Tags
 * 🥁 Trial
 * ♿ Accessible \(see [https://www.jotform.com/help/592-how-can-i-make-my-forms-accessible](https://www.google.com/url?q=https://www.jotform.com/help/592-how-can-i-make-my-forms-accessible&sa=D&source=editors&ust=1612994048908000&usg=AOvVaw03h0issI4MsPK0L-g1pMjC) for how to enable accessibility checks\)
 * 🌐 Supports multiple languages \(see [https://www.jotform.com/help/298-how-to-make-your-forms-multilingual](https://www.google.com/url?q=https://www.jotform.com/help/298-how-to-make-your-forms-multilingual&sa=D&source=editors&ust=1612994048909000&usg=AOvVaw1KgAEvXSWhdW7ZNFzflC0_) for details\)
-
-‌
 
 ## Category <a id="h.275oysyrlu3w"></a>
 
@@ -51,7 +47,7 @@ Tags
 * TypeForm
 * &lt;probably others&gt;
 
-‌Integration With Other Tools
+## ‌Integration With Other Tools
 
 This tool integrates well with the following tools:
 
@@ -66,8 +62,6 @@ This tool does NOT integrate well with the following tools:
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
-‌What kind of support can we expect from the vendor?
-
 I’ve never actually needed  to contact their support. There is a pretty rich amount of information available via Google as they have many forum posts. They appear to be quite responsive in that setting.
 
 ## Maintenance <a id="h.o456lrtyv134"></a>
@@ -78,13 +72,11 @@ JotForm requires very little maintenance. While we have seen them experience the
 
 JotForm can generally just be left on its own without hitting any issues, as long as you don’t hit one of the paid plan limits.
 
-‌
-
-Security Level
+## Security Level
 
 Forms can be encrypted at rest, and some plans have PCI and HIPAA compliance. More details at https://www.jotform.com/security/
 
-The security level is: PRIVATE / HIGH SECURITY - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject.
+The security level is: **PRIVATE / HIGH SECURITY** - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject.
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
@@ -95,13 +87,9 @@ The security level is: PRIVATE / HIGH SECURITY - Information related to the USDR
 * [A Vote-by-Mail demo app](https://www.google.com/url?q=https://form.jotform.com/202688090585060&sa=D&source=editors&ust=1612994048913000&usg=AOvVaw2daNg27sLn5GCVXGSGiPu7) that fills in a PDF.
 * A [Election “Start-up” Wizard](https://www.google.com/url?q=https://form.jotform.com/202400674473046&sa=D&source=editors&ust=1612994048914000&usg=AOvVaw1-eo0_ScCERv_MAPIcHjaA) that isn’t actually intended to ever receive submissions.
 
-‌
-
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-PROCEED! What this tool is great for...
-
-For almost any basic form task, JotForm is quite good.
+**PROCEED!** What this tool is great for.. for almost any basic form task, JotForm is quite good.
 
 1. JotForm is a great tool to prototype any Form or Form-like flow to show what is possible to a government partner. Often, building a form is expected to be hard, but JotForm makes it easy. JotForm also makes it look good. Customizing JotForm to have the look-and-feel of our partners is pretty easy, and can make for a really quick win when creating a demo.
 2. It is very easy to build a JotForm for a partner and then transfer the form to them by cloning the form through the “Create Form\|Import Form” workflow, so you don’t need to have access to their JotForm account just to build the form.
@@ -109,23 +97,19 @@ For almost any basic form task, JotForm is quite good.
 4. JotForm makes it easy to integrate with AirTable \(and has more powerful form functionality - particularly the programmability - than AirTable\) as well as other tools, so it is a good module in a larger suite of SaaS tools.
 5. JotForm has the ability to import a PDF, and then produce a filled version of that PDF. This can be a good way to quickly digitize the intake process for workflows that are currently paper based.
 
-BEWARE! What's hard to do with this tool...
+**BEWARE!** What's hard to do with this tool...
 
 1. It is more difficult to build wizards/screening questions in the single page version of the form - but this is generally solvable by using the one-question-at-a-time process.
 2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g. Cognito Forms.
 3. JotForm may not be a good fit if you only need to build simple forms. E.g., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
 
-### Other Landmines <a id="h.595aawa0ekya"></a>
+## Other Landmines
 
 1. Getting files uploaded to JotForm via Power Automate is very tedious and challenging.
-
-‌
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
 JotForm UI to be pretty intuitive, and most questions can be answered by Googling.
-
-‌
 
 ## Hmm, What Else? <a id="h.citc7idtx8n3"></a>
 

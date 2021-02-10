@@ -41,9 +41,7 @@
 
 ## NEW CATEGORY
 
-* [Untitled](new-category/untitled.md)
-
 ---
 
-* [Untitled](untitled.md)
+* [MailChimp Landing Pages](mailchimp.md)
 

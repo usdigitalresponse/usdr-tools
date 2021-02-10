@@ -2,9 +2,9 @@
 
 LAST UPDATED: Feb. 10,  2021
 
-Asana
+## Asana
 
-### NOTE: This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks! <a id="h.nb4w15iqrinn"></a>
+**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!
 
 ### Author <a id="h.90yeurmkrgno"></a>
 
