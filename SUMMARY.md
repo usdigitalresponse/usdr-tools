@@ -32,6 +32,7 @@
 ---
 
 * [Asana](asana-1.md)
+* [Picktime Scheduling Software](picktime.md)
 
 ## Hosting Tools
 
@@ -40,8 +41,4 @@
 * [MailChimp Landing Pages](communications-tools/mailchimp.md)
 
 ## NEW CATEGORY
-
----
-
-* [Untitled](untitled.md)
 
