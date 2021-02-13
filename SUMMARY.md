@@ -31,7 +31,7 @@
 
 ---
 
-* [Asana](asana-1.md)
+* [Asana](asana.md)
 * [Picktime](picktime.md)
 
 ## Hosting Tools
