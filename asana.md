@@ -93,7 +93,7 @@ It’s easy to [report issues online](https://www.google.com/url?q=https://forum
 
 ## Security Level <a id="h.wp27bo5hatdz"></a>
 
-The security level is: MEDIUM  - Information or data that is used for USDR internal purposes but should not be disclosed to unauthorized parties outside of USDR. Does not contain personal data or intellectual property information and has no potential legal or regulatory impacts
+The security level is: MEDIUM  - Information or data that is used for USDR internal purposes but should not be disclosed to unauthorized parties outside of USDR. Does not contain personal data or intellectual property information and has no potential legal or regulatory impacts.
 
 ‌
 
