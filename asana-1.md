@@ -2,27 +2,25 @@
 
 LAST UPDATED: Feb. 10,  2021
 
-## Asana
-
-**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!
-
-### Author <a id="h.90yeurmkrgno"></a>
-
-Ni Xu, [ni@usdigitalresponse.org](mailto:ni@usdigitalresponse.org), please reach out to Ni if you have any questions.
-
-Kristen Eberlin, [kristen@usdigitalresponse.org](mailto:kristen@usdigitalresponse.org) 
+![](.gitbook/assets/asana.png)
 
 [https://asana.com](https://www.google.com/url?q=https://asana.com&sa=D&source=editors&ust=1612994037330000&usg=AOvVaw1nqPeK-lsfAki11FIyLoxn) 
 
-‌
+_\*\*\*\*_
+
+_**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!_
+
+### Authors <a id="h.90yeurmkrgno"></a>
+
+Ni Xu, [ni@usdigitalresponse.org](mailto:ni@usdigitalresponse.org) - Reach out to Ni with questions.
+
+Kristen Eberlin, [kristen@usdigitalresponse.org](mailto:kristen@usdigitalresponse.org) 
 
 ## Description <a id="h.7w7zez36b1wy"></a>
 
 Asana is a web and mobile application designed to help teams organize, track, and manage their work. Forrester, Inc. reports that “Asana simplifies team-based work management.”
 
 ## Tags <a id="h.6mnfw9pne09c"></a>
-
-‌
 
 * 🌈 No-code
 * 💸 Freemium
@@ -38,12 +36,6 @@ Asana is a web and mobile application designed to help teams organize, track, an
 * Forms
 * Productivity
 * User Communication
-
-‌
-
-#### Other Sub-Categories: <a id="h.fn3agtlxydsb"></a>
-
-N/A
 
 ## Procurement <a id="h.vrqjenfsjq1q"></a>
 
@@ -97,7 +89,7 @@ It’s easy to [report issues online](https://www.google.com/url?q=https://forum
 
 ## Security Level <a id="h.wp27bo5hatdz"></a>
 
-The security level is: MEDIUM SECURITY - Information or data that is used for USDR internal purposes but should not be disclosed to unauthorized parties outside of USDR. Does not contain personal data or intellectual property information and has no potential legal or regulatory impacts
+The security level is: MEDIUM  - Information or data that is used for USDR internal purposes but should not be disclosed to unauthorized parties outside of USDR. Does not contain personal data or intellectual property information and has no potential legal or regulatory impacts
 
 ‌
 
@@ -133,11 +125,7 @@ BEWARE! What's hard to do with this tool… None identified
 
 None identified
 
-‌
-
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
-
-‌
 
 [‌Asana Academy](https://www.google.com/url?q=https://academy.asana.com/&sa=D&source=editors&ust=1612994037340000&usg=AOvVaw2g9DFUtRyYlUFHKWYuxuYN) provides training. Asana also has advisors who can provide training.
 
@@ -145,5 +133,5 @@ None identified
 
 SHARE ADDITIONAL EXPERIENCE ABOUT THE TOOL:
 
-So … you’ve used the tool based on this write-up. Would you like to see more info added based on your experience? Please add your information via this link.
+So … you’ve used the tool based on this write-up. Would you like to see more info added based on your experience? Please add your information via this link **\(COMING SOON\)**
 
