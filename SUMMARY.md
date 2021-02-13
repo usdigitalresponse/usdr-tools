@@ -38,7 +38,7 @@
 
 ## Communications Tools
 
-* [MailChimp Landing Pages](communications-tools/mailchimp.md)
+* [MailChimp](communications-tools/mailchimp.md)
 
 ## NEW CATEGORY
 

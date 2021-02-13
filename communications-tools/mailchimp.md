@@ -1,4 +1,4 @@
-# MailChimp Landing Pages
+# MailChimp
 
 Last Updated: Feb. 10, 2021
 
