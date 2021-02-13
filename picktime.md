@@ -1,4 +1,4 @@
-# Picktime Scheduling Software
+# Picktime
 
 Last Updated: Feb 10, 2021
 

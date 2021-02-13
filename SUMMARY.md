@@ -32,7 +32,7 @@
 ---
 
 * [Asana](asana-1.md)
-* [Picktime Scheduling Software](picktime.md)
+* [Picktime](picktime.md)
 
 ## Hosting Tools
 
