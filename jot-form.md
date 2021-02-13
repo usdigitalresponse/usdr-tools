@@ -1,6 +1,6 @@
 # JotForm
 
-LAST UPDATED: Feb. 10, 2021
+LAST UPDATED: Feb. 12, 2021
 
 ## ‌JotForm
 
