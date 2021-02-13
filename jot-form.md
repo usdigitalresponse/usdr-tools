@@ -56,9 +56,11 @@ This tool integrates well with the following tools:
 * Power Automate \(requires a Premium Power Automate license\)
 * AirTable
 
+Integration with Power Automate is straightforward for basic use cases. However, if access to uploaded files is required, it is significantly more complicated and multiple steps are required. This [webpage](https://www.jotform.com/answers/2358500-how-to-upload-the-files-in-a-submission-to-sharepoint-through-power-automate) describes approximately how to do it. It requires changing form access settings, then using the HTTP connector. This is a multi-step process as the URLs provided by JotForm 301 to the final file destination, so multiple HTTP connector steps are needed. 
+
 This tool does NOT integrate well with the following tools:
 
-* None identified
+* SharePoint - connecting JotForm to SharePoint requires using Power Automate, so while it is possible to do so, it requires an extra tool that must be monitored. If you need to move files from JotForm to SharePoint, you have to deal with the hurdles mentioned above.
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
@@ -80,12 +82,10 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
-* To import a PDF and use JotForm to fill out the PDF \(and then use Power Automate to link that PDF to SharePoint\).
-* To build a number of wizard/screener flows that don’t actually anticipate a form being submitted at all, but instead use JotForm’s programmatic capabilities.
+* To import a PDF and use JotForm to fill out the PDF \(and then use Power Automate to link that PDF to SharePoint\). Here's [an example using Bexar County's poll worker application](https://form.jotform.com/202521613393044) to fill in a PDF.  Here's a [Vote-by-Mail demo app](https://form.jotform.com/202688090585060) that fills in a PDF.
+* To build a number of wizard/screener flows that don’t actually anticipate a form being submitted at all, but instead use JotForm’s programmatic capabilities. Here's a generic example that shows a [wizard for helping someone ensure they are ready to vote](https://form.jotform.com/202405673455151).
 * To build a number of longer, multi-page intake forms.
 * JotForm has many plugins, including the ability to do scheduling and take payment information, but I have not used those.
-* [A Vote-by-Mail demo app](https://www.google.com/url?q=https://form.jotform.com/202688090585060&sa=D&source=editors&ust=1612994048913000&usg=AOvVaw2daNg27sLn5GCVXGSGiPu7) that fills in a PDF.
-* A [Election “Start-up” Wizard](https://www.google.com/url?q=https://form.jotform.com/202400674473046&sa=D&source=editors&ust=1612994048914000&usg=AOvVaw1-eo0_ScCERv_MAPIcHjaA) that isn’t actually intended to ever receive submissions.
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
@@ -102,10 +102,15 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 1. It is more difficult to build wizards/screening questions in the single page version of the form - but this is generally solvable by using the one-question-at-a-time process.
 2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g. Cognito Forms.
 3. JotForm may not be a good fit if you only need to build simple forms. E.g., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
+4. JotForm &lt;-&gt; SharePoint is not as easy as some other tool integrations.
+
+
 
 ## Other Landmines
 
 1. Getting files uploaded to JotForm via Power Automate is very tedious and challenging.
+2. Emails sent from JotForm may be subject to attachment size limits, so if you are relying on emails to route uploaded documents, be careful that the size never exceeds 5MB.
+3. The classic form view \("all questions on one page"\) does not make it possible \(from what I can tell\) to prevent submitting a form. The card form view \("show single question per page"\) view does. If you're used to building wizards with the latter view, this can be frustrating if you want to create a regular form that prevents submission.
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
