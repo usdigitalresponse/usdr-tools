@@ -111,7 +111,7 @@ I have used Asana to manage multiple ongoing projects with different personnel.
 
 ## Tips & Tricks \(from USDR users\) <a id="h.doc1gn3ys4e6"></a>
 
-1. The third-party app integration is handy. I use [Slack integration](https://www.google.com/url?q=https://asana.com/apps&sa=D&source=editors&ust=1612994037338000&usg=AOvVaw3iWJXokR0e0xb3NkhHn2vZ). When someone assigns me a new task or tags me in a comment, I receive a real-time notification in Slack. I can directly respond to an assignment or a comment in Slack without having to open Asana.
+1. The third-party app integration is handy. I use [Slack integration](https://asana.com/apps?category=featured-apps). When someone assigns me a new task or tags me in a comment, I receive a real-time notification in Slack. I can directly respond to an assignment or a comment in Slack without having to open Asana.
 2. I check my [Inbox](https://www.google.com/url?q=https://asana.com/guide/help/fundamentals/inbox&sa=D&source=editors&ust=1612994037338000&usg=AOvVaw2_PJbuUG226CY5RhHb5jBm) regularly so that I keep track of tasks I’m assigned to or part of.  
 3. To look for a specific task, I like using the [Search functionality](https://www.google.com/url?q=https://asana.com/guide/help/fundamentals/search&sa=D&source=editors&ust=1612994037339000&usg=AOvVaw0DZplP1YODoNBZlaT_KvGe)
 
@@ -121,7 +121,7 @@ PROCEED! What this tool is great for...
 
 1. It’s great for managing multiple projects with multiple teams.
 
-BEWARE! What's hard to do with this tool… None identified
+BEWARE! What's hard to do with this tool… _None identified_
 
 ‌
 
