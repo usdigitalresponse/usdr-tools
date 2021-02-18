@@ -14,7 +14,7 @@ Last Updated: Feb 10, 2021
 
 ### Author
 
-Bobbi Jamriska[, b.jamriska@verizon.net](mailto:b.jamriska@verizon.net)  
+Bobbi Jamriska[ b.jamriska@verizon.net](mailto:b.jamriska@verizon.net)  
 You can contact this author for basic support.
 
 ## Description <a id="h.7w7zez36b1wy"></a>
