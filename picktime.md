@@ -8,7 +8,7 @@ Last Updated: Feb 10, 2021
 
 ![](.gitbook/assets/picktime_logo.png)
 
-[https://www.picktime.com](https://www.google.com/url?q=https://www.picktime.com&sa=D&source=editors&ust=1612994061459000&usg=AOvVaw0i21N-yhntgkds0zw0RUeL)
+[https://www.picktime.com](https://www.picktime.com)
 
 **Note:** This is a living document. [Share your comments and experience to improve it](https://form.jotform.com/210477511316045).
 
@@ -48,17 +48,18 @@ You can visit the website and sign up for an account in just a few minutes. Ther
 
 ‌‌Alternative tools a project lead could look at to compare:
 
-* None identified
+* Airtable
 
 ## Integration With Other Tools <a id="h.ojoayjospnj2"></a>
 
-This tool integrates well with the following tools: There is a substantial list of product integrations on their website. There is a partial list available[ here](https://www.google.com/url?q=https://www.picktime.com/integrations&sa=D&source=editors&ust=1612994061465000&usg=AOvVaw0ysAG_pJNU8ckQimAP1HOE).
+This tool integrates well with the following tools and many others:
 
 * Skype
 * Zoom
 * Gotomeeting
 * Wix
 * Wordpress
+* And many more \([full list here](https://www.picktime.com/integrations)\)
 
 This tool does NOT integrate well with the following tools:
 
@@ -102,7 +103,7 @@ The selection of this tool was based on the ease of use and maintenance for the 
 \*\*\*\*🏆 **PROCEED!** What this tool is great for…
 
 * This tool is great for a partner that is looking for a simple and easy to maintain online booking system.
-* The time to stand this up is minimal and it meets their needs quickly and effectively.
+* The time to stand this up is minimal and it meets needs quickly and effectively.
 
 \*\*\*\*🌵 **BEWARE!** What's hard to do with this tool…
 
