@@ -4,15 +4,17 @@ description: Web and campaign builder
 
 # MailChimp
 
-Last Updated: Feb. 10, 2021
+Last Updated: Feb 10, 2021
+
+![](../.gitbook/assets/mailchimp_logo-horizontal_black.png)
 
 _**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!_
 
-## Author
+### Author
 
 Lia Siebert  
 [lia.siebert@gmail.com](mailto:lia.siebert@gmail.com)  
-Contact Lia with questions. More USDR support: Prince Boucher and Wini Tran are also very familiar with Mailchimp.
+Contact Lia with questions. More USDR support: Prince Boucher and Wini Tran.
 
 [https://mailchimp.com/websites/](https://mailchimp.com/websites/)
 
