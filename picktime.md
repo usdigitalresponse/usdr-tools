@@ -10,7 +10,7 @@ Last Updated: Feb 10, 2021
 
 [https://www.picktime.com](https://www.google.com/url?q=https://www.picktime.com&sa=D&source=editors&ust=1612994061459000&usg=AOvVaw0i21N-yhntgkds0zw0RUeL)
 
-**Note:** This is a living document. Add comments to improve it.
+**Note:** This is a living document. [Share your comments and experience to improve it](https://form.jotform.com/210477511316045).
 
 ### Author
 
