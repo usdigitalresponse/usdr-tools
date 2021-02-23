@@ -1,6 +1,6 @@
 # JotForm
 
-LAST UPDATED: Feb. 12, 2021
+LAST UPDATED: Feb. 23, 2021
 
 ## ‌JotForm
 
@@ -51,16 +51,18 @@ https://www.jotform.com/
 
 This tool integrates well with the following tools:
 
-* Slack
-* Zapier
-* Power Automate \(requires a Premium Power Automate license\)
-* AirTable
+* [Slack](https://www.jotform.com/help/563-how-to-use-slack-with-your-form)
+* [Zapier](https://zapier.com/apps/jotform/help)
+* [Power Automate](https://www.jotform.com/blog/microsoft-flow-integration/) \(requires a Premium Power Automate license\)
+* [AirTable](https://www.jotform.com/help/561-how-to-integrate-jotform-with-airtable)
+* [OneDrive](https://www.jotform.com/blog/announcing-onedrive-integration)
 
 Integration with Power Automate is straightforward for basic use cases. However, if access to uploaded files is required, it is significantly more complicated and multiple steps are required. This [webpage](https://www.jotform.com/answers/2358500-how-to-upload-the-files-in-a-submission-to-sharepoint-through-power-automate) describes approximately how to do it. It requires changing form access settings, then using the HTTP connector. This is a multi-step process as the URLs provided by JotForm 301 to the final file destination, so multiple HTTP connector steps are needed. 
 
 This tool does NOT integrate well with the following tools:
 
 * SharePoint - connecting JotForm to SharePoint requires using Power Automate, so while it is possible to do so, it requires an extra tool that must be monitored. If you need to move files from JotForm to SharePoint, you have to deal with the hurdles mentioned above.
+  * Note: if you can replace SharePoint in the workflow with OneDrive, your life should be considerably easier now that JotForm has a OneDrive integration.
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
