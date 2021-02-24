@@ -45,6 +45,7 @@ https://www.jotform.com/
 * ‌Cognito Forms
 * Airtable Forms
 * TypeForm
+* forms.microsoft.com
 * &lt;probably others&gt;
 
 ## ‌Integration With Other Tools
