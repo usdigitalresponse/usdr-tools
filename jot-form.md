@@ -48,7 +48,9 @@ https://www.jotform.com/
 * forms.microsoft.com
 * &lt;probably others&gt;
 
-What sets JotForm apart from Google Forms, Microsoft Forms and Airtable Forms is that it is much more customizable. You have more control over the types of inputs, the flow between form elements, and the UI. For example, with Microsoft Forms, you cannot create a form that accepts uploads from anyone on the  internet, control whether individual questions are hidden/displayed or prevent the form from being submitted.
+What sets JotForm apart from Google Forms, Microsoft Forms and Airtable Forms is that it is much more customizable. You have more control over the types of inputs, the flow between form elements, and the UI. For example, with Microsoft Forms, you cannot create a form that accepts uploads from anyone on the  internet, control whether individual questions are hidden/displayed or prevent the form from being submitted. 
+
+JotForm also includes features like esignatures and a [gallery of widgets](https://www.jotform.com/widgets) that can be used to customize inputs. This flexibility makes JotForm a good option even when it's not immediately needed, as it provides more options when requirements change.
 
 ## ‌Integration With Other Tools
 
