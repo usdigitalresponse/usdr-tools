@@ -128,5 +128,5 @@ Would you like to add additional information from your experience to help others
 
 ## Was this helpful? 
 
-Please rate the information in this page with a👍 or 👎 at the bottom of the page, to help us improve it. 
+Please rate the information in this page with a🙂😐☹at the bottom of the page to help us improve it. 
 
