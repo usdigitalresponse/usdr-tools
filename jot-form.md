@@ -14,7 +14,7 @@ https://www.jotform.com/
 
 ## Description <a id="h.7w7zez36b1wy"></a>
 
-‌A drag and drop form builder with light programmable capabilities.
+‌A highly configurable drag and drop form builder with light programmable capabilities.
 
 ## Tags
 
@@ -47,6 +47,8 @@ https://www.jotform.com/
 * TypeForm
 * forms.microsoft.com
 * &lt;probably others&gt;
+
+What sets JotForm apart from Google Forms, Microsoft Forms and Airtable Forms is that it is much more customizable. You have more control over the types of inputs, the flow between form elements, and the UI. For example, with Microsoft Forms, you cannot create a form that accepts uploads from anyone on the  internet, control whether individual questions are hidden/displayed or prevent the form from being submitted.
 
 ## ‌Integration With Other Tools
 
@@ -99,6 +101,7 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 3. The “one question at a time” flow is very good for wizards/screeners.
 4. JotForm makes it easy to integrate with AirTable \(and has more powerful form functionality - particularly the programmability - than AirTable\) as well as other tools, so it is a good module in a larger suite of SaaS tools.
 5. JotForm has the ability to import a PDF, and then produce a filled version of that PDF. This can be a good way to quickly digitize the intake process for workflows that are currently paper based.
+6. JotForm can accept file uploads. If someone fills out the form on a phone, that widget allows them to take a photo.
 
 **BEWARE!** What's hard to do with this tool...
 
