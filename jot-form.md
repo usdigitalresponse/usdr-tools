@@ -119,6 +119,7 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 1. Getting files uploaded to JotForm via Power Automate is very tedious and challenging.
 2. Emails sent from JotForm may be subject to attachment size limits, so if you are relying on emails to route uploaded documents, be careful that the size never exceeds 5MB.
 3. The classic form view \("all questions on one page"\) does not make it possible \(from what I can tell\) to prevent submitting a form. The card form view \("show single question per page"\) view does. If you're used to building wizards with the latter view, this can be frustrating if you want to create a regular form that prevents submission.
+4. JotForm allows you to hide fields manually, and also set conditional logic to hide and show fields. If you have conditional logic that controls which fields are displayed, they operate as constraints, not procedural statements. I.e. if you say "if A, show field", then if A is false, the field is hidden. This will override any default settings of whether the field is hidden or not. Moreover, if you have multiple conditions that control the visibility of the same field, and they conflict, you will get very confusing results.
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
