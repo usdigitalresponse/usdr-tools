@@ -1,10 +1,14 @@
 # JotForm
 
-LAST UPDATED: Feb. 25, 2021
+LAST UPDATED: Mar 2, 2021
 
-## ‌JotForm
+![](.gitbook/assets/screen-shot-2021-03-02-at-7.23.21-pm.png)
 
-**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!
+\*\*\*\*
+
+\*\*\*\*[**https://www.jotform.com**](https://www.jotform.com)\*\*\*\*
+
+**Note:** This is a living document. [Share your comments and experience to improve it](https://form.jotform.com/210477511316045).
 
 ## Author
 
@@ -96,7 +100,7 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-**PROCEED!** What this tool is great for.. for almost any basic form task, JotForm is quite good.
+**PROCEED!** What this tool is great for ... almost any basic form task -- JotForm is quite good.
 
 1. JotForm is a great tool to prototype any Form or Form-like flow to show what is possible to a government partner. Often, building a form is expected to be hard, but JotForm makes it easy. JotForm also makes it look good. Customizing JotForm to have the look-and-feel of our partners is pretty easy, and can make for a really quick win when creating a demo.
 2. It is very easy to build a JotForm for a partner and then transfer the form to them by cloning the form through the “Create Form\|Import Form” workflow, so you don’t need to have access to their JotForm account just to build the form.
@@ -105,7 +109,7 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 5. JotForm has the ability to import a PDF, and then produce a filled version of that PDF. This can be a good way to quickly digitize the intake process for workflows that are currently paper based.
 6. JotForm can accept file uploads. If someone fills out the form on a phone, that widget allows them to take a photo.
 
-**BEWARE!** What's hard to do with this tool...
+**BEWARE!** What's hard to do with this tool ...
 
 1. It is more difficult to build wizards/screening questions in the single page version of the form - but this is generally solvable by using the one-question-at-a-time process.
 2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g. Cognito Forms.
@@ -123,7 +127,7 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
-JotForm UI to be pretty intuitive, and most questions can be answered by Googling.
+JotForm UI is pretty intuitive  and most questions can be answered by Googling.
 
 ## Hmm, What Else? <a id="h.citc7idtx8n3"></a>
 

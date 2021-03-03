@@ -4,7 +4,7 @@ description: Scheduling tool
 
 # Picktime
 
-Last Updated: Feb 10, 2021
+Last Updated: Mar 2, 2021
 
 ![](.gitbook/assets/picktime_logo.png)
 
