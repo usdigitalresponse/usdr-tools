@@ -127,15 +127,17 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
-JotForm UI is pretty intuitive  and most questions can be answered by Googling.
+JotForm UI is pretty intuitive and most questions can be answered by googling.
 
 ## Hmm, What Else? <a id="h.citc7idtx8n3"></a>
 
 ‌In my opinion, JotForm is the go to form builder for USDR at the moment. While there might be better tools out there that we should consider, of all the form builders we’ve used, I think it’s the best.
 
---------------------------------------------------------------------------------------------------------------------
+## Share your experience with this tool
 
-SHARE ADDITIONAL EXPERIENCE ABOUT THE TOOL:
+Would you like to add additional information from your experience to help others vet or use this tool? [Share your comments here](https://form.jotform.com/210477511316045).
 
-So … you’ve used the tool based on this write-up. Would you like to see more info added based on your experience? Please add your information via this link.
+## Was this helpful? 
+
+Please rate the information in this page with a🙂😐☹at the bottom of the page to help us improve it. 
 
