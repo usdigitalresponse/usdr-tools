@@ -8,7 +8,7 @@ Last Updated: Feb 10, 2021
 
 ![](../.gitbook/assets/mailchimp_logo-horizontal_black.png)
 
-_**NOTE:** This is a living document. If you feel additional info needs to be added, please see the link at the end of the writeup. Also, please rate the helpfulness of the write-up to help us make improvements where needed. The rating is at the very bottom of the page. Thanks!_
+**Note:** This is a living document. [Share your comments and experience to improve it](https://form.jotform.com/210477511316045).
 
 ### Author
 
@@ -106,5 +106,5 @@ Would you like to add additional information from your experience to help others
 
 ## Was this helpful? 
 
-Please rate the information in this page with a👍 or 👎 at the bottom of the page, to help us improve it.
+Please rate the information in this page with aa🙂😐☹ at the bottom of the page, to help us improve it.
 
