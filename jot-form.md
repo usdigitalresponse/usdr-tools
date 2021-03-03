@@ -6,7 +6,7 @@ description: Create forms
 
 LAST UPDATED: Mar. 2, 2021
 
-![](.gitbook/assets/screen-shot-2021-03-02-at-7.23.21-pm.png)
+![](https://lh6.googleusercontent.com/hKped11JQn9HnVnVKXJXGT0sd33Rv4of2_pTslIMgP-l115v1kP-xPHmBOa0plM_7AZS0a1X-gbMzdOhYFZqSqj-z5Jy54uSmVQzGsAobu1Jg3LzMb9scusYCVIYqzZ3uH2MKHGx)
 
 \*\*\*\*[**https://www.jotform.com**](https://www.jotform.com)\*\*\*\*
 
@@ -15,8 +15,6 @@ LAST UPDATED: Mar. 2, 2021
 ## Author
 
 Alex Allain, alex@usdigitalresponse.org
-
-https://www.jotform.com/
 
 ## Description <a id="h.7w7zez36b1wy"></a>
 
@@ -42,7 +40,7 @@ https://www.jotform.com/
 
 ## ‌Procurement <a id="h.go61rzbnc73"></a>
 
-‌JotForm has both free and paid tiers. The most expensive plan is $79/month, but is overkill for all but the most heavyweight use cases. The $29/month plan supports 10,000 form submissions, and will be sufficient in almost acll cases. See [https://www.jotform.com/pricing](https://www.google.com/url?q=https://www.jotform.com/pricing&sa=D&source=editors&ust=1612994048910000&usg=AOvVaw3TVfX8yWa4Qu1MWPiMr3Vr) for details.
+‌JotForm has both free and paid tiers. The most expensive plan is $79/month but is overkill for all but the most heavyweight use cases. The $29/month plan supports 10,000 form submissions and is sufficient in almost all cases. See [https://www.jotform.com/pricing](https://www.google.com/url?q=https://www.jotform.com/pricing&sa=D&source=editors&ust=1612994048910000&usg=AOvVaw3TVfX8yWa4Qu1MWPiMr3Vr) for details.
 
 ## Alternative / Similar Tools <a id="h.ru44st8agyw1"></a>
 
@@ -116,15 +114,15 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 **BEWARE!** What's hard to do with this tool ...
 
 1. It is more difficult to build wizards/screening questions in the single page version of the form - but this is generally solvable by using the one-question-at-a-time process.
-2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g. Cognito Forms.
-3. JotForm may not be a good fit if you only need to build simple forms. E.g., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
+2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g., Cognito Forms.
+3. JotForm may not be a good fit if you only need to build simple forms. FOr example., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
 4. JotForm &lt;-&gt; SharePoint is not as easy as some other tool integrations.
 
 
 
 ## Other Landmines
 
-1. Getting files uploaded to JotForm via Power Automate is very tedious and challenging.
+1. Uploading files to JotForm via Power Automate is very tedious and challenging.
 2. Emails sent from JotForm may be subject to attachment size limits, so if you are relying on emails to route uploaded documents, be careful that the size never exceeds 5MB.
 3. The classic form view \("all questions on one page"\) does not make it possible \(from what I can tell\) to prevent submitting a form. The card form view \("show single question per page"\) view does. If you're used to building wizards with the latter view, this can be frustrating if you want to create a regular form that prevents submission.
 4. JotForm allows you to hide fields manually, and also set conditional logic to hide and show fields. If you have conditional logic that controls which fields are displayed, they operate as constraints, not procedural statements. I.e. if you say "if A, show field", then if A is false, the field is hidden. This will override any default settings of whether the field is hidden or not. Moreover, if you have multiple conditions that control the visibility of the same field, and they conflict, you will get very confusing results.
