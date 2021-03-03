@@ -4,7 +4,7 @@ description: Web and campaign builder
 
 # MailChimp
 
-Last Updated: Mar 2,, 2021
+Last Updated: Mar. 2, 2021
 
 ![](../.gitbook/assets/mailchimp_logo-horizontal_black.png)
 
