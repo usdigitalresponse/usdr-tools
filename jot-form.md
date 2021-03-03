@@ -4,7 +4,7 @@ description: Create forms
 
 # JotForm
 
-LAST UPDATED: Mar 2, 2021
+LAST UPDATED: Mar. 2, 2021
 
 ![](.gitbook/assets/screen-shot-2021-03-02-at-7.23.21-pm.png)
 
