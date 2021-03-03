@@ -8,8 +8,6 @@ LAST UPDATED: Mar. 2, 2021
 
 ![](.gitbook/assets/screen-shot-2021-03-02-at-7.23.21-pm.png)
 
-\*\*\*\*
-
 \*\*\*\*[**https://www.jotform.com**](https://www.jotform.com)\*\*\*\*
 
 **Note:** This is a living document. [Share your comments and experience to improve it](https://form.jotform.com/210477511316045).
@@ -91,9 +89,11 @@ JotForm can generally just be left on its own without hitting any issues, as lon
 
 ## Security Level
 
-Forms can be encrypted at rest, and some plans have PCI and HIPAA compliance. More details at https://www.jotform.com/security/
+Forms can be encrypted at rest and some plans have PCI and HIPAA compliance. More details at https://www.jotform.com/security/
 
+{% hint style="danger" %}
 The security level is: **PRIVATE / HIGH SECURITY** - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject.
+{% endhint %}
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
