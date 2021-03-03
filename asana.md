@@ -12,8 +12,6 @@ Last Updated: Mar 2,  2021
 
 **Note:** This is a living document. [Share your comments and experience to improve it](https://form.jotform.com/210477511316045).
 
-###  <a id="h.90yeurmkrgno"></a>
-
 ### Authors <a id="h.90yeurmkrgno"></a>
 
 Ni Xu, [ni@usdigitalresponse.org](mailto:ni@usdigitalresponse.org) - Reach out to Ni with questions.
