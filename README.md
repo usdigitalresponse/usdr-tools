@@ -26,7 +26,9 @@ Choosing a tool for a project is no small feat. There are numerous important con
 * Forms
 * Hosting
 * Productivity
+* Security & Reliability
 * Services
+* Social
 
 ## ❤ About This Resource
 
