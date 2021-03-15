@@ -14,7 +14,7 @@ LAST UPDATED: Mar. 2, 2021
 
 ## Author
 
-Alex Allain, alex@usdigitalresponse.org
+[Alex Allain](mailto:alex@usdigitalresponse.org), USDR Staff
 
 ## Description <a id="h.7w7zez36b1wy"></a>
 
