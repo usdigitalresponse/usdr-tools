@@ -112,7 +112,9 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-**PROCEED!** What this tool is great for ... almost any basic form task -- JotForm is quite good.
+**What this tool is great for:**
+
+Almost any basic form task -- JotForm is quite good.
 
 1. JotForm is a great tool to prototype any Form or Form-like flow to show what is possible to a government partner. Often, building a form is expected to be hard, but JotForm makes it easy. JotForm also makes it look good. Customizing JotForm to have the look-and-feel of our partners is pretty easy, and can make for a really quick win when creating a demo.
 2. It is very easy to build a JotForm for a partner and then transfer the form to them by cloning the form through the “Create Form\|Import Form” workflow, so you don’t need to have access to their JotForm account just to build the form.
@@ -121,15 +123,13 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 5. JotForm has the ability to import a PDF, and then produce a filled version of that PDF. This can be a good way to quickly digitize the intake process for workflows that are currently paper based.
 6. JotForm can accept file uploads. If someone fills out the form on a phone, that widget allows them to take a photo.
 
-**BEWARE!** What's hard to do with this tool ...
+**What's hard to do with this tool:**
 
 1. It is more difficult to build wizards/screening questions in the single page version of the form - but this is generally solvable by using the one-question-at-a-time process.
 2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g., Cognito Forms.
 3. JotForm may not be a good fit if you only need to build simple forms. FOr example., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
 4. JotForm &lt;-&gt; SharePoint is not as easy as some other tool integrations.
 5. JotForm's Power Automate integration has known issues as outlined above.
-
-
 
 ## Other Landmines
 

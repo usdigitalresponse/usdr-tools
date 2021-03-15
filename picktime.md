@@ -87,6 +87,10 @@ The upkeep of the appointment hours and services is the only action required to 
 This tool's security level is: **MEDIUM** - Information or data that is used for USDR internal purposes but should not be disclosed to unauthorized parties outside of USDR. Does not contain personal data or intellectual property information and has no potential legal or regulatory impacts
 {% endhint %}
 
+{% hint style="info" %}
+[**Review these security considerations to assess this tool**](usdr-tool-guidelines/data-security.md#security-how-sensitive-is-the-data)\*\*\*\*
+{% endhint %}
+
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
 The LA County AJCC wanted to create an online booking system for intake appointments. The purpose was to create an online tool for clients to book virtual appointment times via a weblink on the AJCC website. The system can also be used for in person consultations when the locations are able to accommodate in person appointments as well.

@@ -81,6 +81,10 @@ _In progress..._.
 
 ‌_In progress..._
 
+{% hint style="info" %}
+[**Review these security considerations to assess this tool**](../usdr-tool-guidelines/data-security.md#security-how-sensitive-is-the-data)\*\*\*\*
+{% endhint %}
+
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
 ‌_In progress..._
