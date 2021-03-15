@@ -33,5 +33,3 @@
 
 ## SOCIAL
 
-* [Untitled](social/untitled.md)
-
