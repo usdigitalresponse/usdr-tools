@@ -71,8 +71,9 @@ Integration with Power Automate is straightforward for basic use cases. However,
 
 This tool does NOT integrate well with the following tools:
 
-* SharePoint - connecting JotForm to SharePoint requires using Power Automate, so while it is possible to do so, it requires an extra tool that must be monitored. If you need to move files from JotForm to SharePoint, you have to deal with the hurdles mentioned above.
+* 🔴SharePoint - connecting JotForm to SharePoint requires using Power Automate, so while it is possible to do so, it requires an extra tool that must be monitored. If you need to move files from JotForm to SharePoint, you have to deal with the hurdles mentioned above.
   * Note: if you can replace SharePoint in the workflow with OneDrive, your life should be considerably easier now that JotForm has a OneDrive integration.
+* 🔴Power Automate - we have also run into issues with using Power Automate and JotForm together. Sometimes the data from JotForm is not populated in the Power Automate trigger - see this [support ticket](https://www.jotform.com/answers/2125992-problem-with-the-integration-with-microsoft-flow-power-automate) for an example. At this point, I would _not_ recommend starting a new project where Power Automate is used with JotForm. 
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
@@ -118,6 +119,7 @@ The security level is: **PRIVATE / HIGH SECURITY** - Information related to the 
 2. JotForm may not be a good tool if your partner already has access to a different form builder - e.g., Cognito Forms.
 3. JotForm may not be a good fit if you only need to build simple forms. FOr example., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
 4. JotForm &lt;-&gt; SharePoint is not as easy as some other tool integrations.
+5. JotForm's Power Automate integration has known issues as outlined above.
 
 
 
