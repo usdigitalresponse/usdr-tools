@@ -138,6 +138,10 @@ JotForm UI is pretty intuitive and most questions can be answered by googling.
 
 ‌In my opinion, JotForm is the go to form builder for USDR at the moment. While there might be better tools out there that we should consider, of all the form builders we’ve used, I think it’s the best.
 
+
+
+![](.gitbook/assets/gears_banner-divider.png)
+
 ## Share your experience with this tool
 
 Would you like to add additional information from your experience to help others vet or use this tool? [Share your comments here](https://form.jotform.com/210477511316045).

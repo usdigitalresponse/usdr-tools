@@ -122,6 +122,10 @@ It’s worth noting here that you can use Airtable to build a booking system as 
 
 A [blog](https://blog.picktime.com/) and a comprehensive [Help Center](https://support.picktime.com/) are available along with video tutorials.
 
+
+
+![](.gitbook/assets/gears_banner-divider.png)
+
 ## Share your experience with this tool
 
 Would you like to add additional information from your experience to help others vet or use this tool? [Share your comments here](https://form.jotform.com/210477511316045).

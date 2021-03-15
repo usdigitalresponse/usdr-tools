@@ -132,6 +132,10 @@ None identified
 
 [‌Asana Academy](https://academy.asana.com/) provides training. Asana also has advisors who can provide training.
 
+
+
+![](.gitbook/assets/gears_banner-divider.png)
+
 ## Share your experience with this tool
 
 Would you like to add additional information from your experience to help others vet or use this tool? [Share your comments here](https://form.jotform.com/210477511316045).

@@ -37,8 +37,6 @@ In Mailchimp, landing pages live alongside other campaign types. Landing pages a
 * Social
 * User Communication
 
-‌
-
 #### Other Sub-Categories: <a id="h.fn3agtlxydsb"></a>
 
 * _None identified_
@@ -69,37 +67,39 @@ This tool does NOT integrate well with the following tools:
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
-‌None specified.
+‌_In progress..._
 
 ## Maintenance
 
-‌None specified.
+‌_In progress..._
 
 ## Monitoring
 
-‌None specified.
+_In progress..._.
 
 ## Security Level <a id="h.wp27bo5hatdz"></a>
 
-‌None specified.
+‌_In progress..._
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
-‌None identified.
+‌_In progress..._
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-**PROCEED!** What this tool is great for…  ‌None identified.
-
-**BEWARE!** What's hard to do with this tool…  ‌None identified.
+_In progress..._
 
 ## Other Landmines
 
-‌None identified.
+‌_In progress..._
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
-‌None identified.
+‌_In progress..._
+
+\_\_
+
+![](../.gitbook/assets/gears_banner-divider.png)
 
 ## Share your experience with this tool
 
