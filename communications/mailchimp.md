@@ -24,8 +24,9 @@ In Mailchimp, landing pages live alongside other campaign types. Landing pages a
 
 ## Tags <a id="h.6mnfw9pne09c"></a>
 
-* 🌈 No-code
+* 🌈  No-code
 * 💰 Paid
+* \*\*\*\*🗝 **USDR account** - [Request access](https://airtable.com/shrgI6dxsMqWbwId5)
 
 ## Category <a id="h.275oysyrlu3w"></a>
 

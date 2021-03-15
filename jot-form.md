@@ -22,13 +22,14 @@ Alex Allain, alex@usdigitalresponse.org
 
 ## Tags
 
-* 🌈 No-code
-* 🎁 Free
-* 💸 Freemium
+* 🌈  No-code
+* 🎁  Free
+* 💸  Freemium
 * 💰 Paid
 * 🥁 Trial
-* ♿ Accessible \(see [https://www.jotform.com/help/592-how-can-i-make-my-forms-accessible](https://www.google.com/url?q=https://www.jotform.com/help/592-how-can-i-make-my-forms-accessible&sa=D&source=editors&ust=1612994048908000&usg=AOvVaw03h0issI4MsPK0L-g1pMjC) for how to enable accessibility checks\)
-* 🌐 Supports multiple languages \(see [https://www.jotform.com/help/298-how-to-make-your-forms-multilingual](https://www.google.com/url?q=https://www.jotform.com/help/298-how-to-make-your-forms-multilingual&sa=D&source=editors&ust=1612994048909000&usg=AOvVaw1KgAEvXSWhdW7ZNFzflC0_) for details\)
+* \*\*\*\*🗝 **USDR account** - [Request access](https://airtable.com/shrgI6dxsMqWbwId5)
+* ♿  Accessible \([enable accessibility checks](https://www.jotform.com/help/592-how-can-i-make-my-forms-accessible)\)
+* 🌐  Supports multiple languages \([details](https://www.jotform.com/help/298-how-to-make-your-forms-multilingual)\)
 
 ## Category <a id="h.275oysyrlu3w"></a>
 
