@@ -41,7 +41,11 @@ Updated: Mar. 2, 2021
 
 ## ‌Procurement <a id="h.go61rzbnc73"></a>
 
-‌JotForm has both free and paid tiers. The most expensive plan is $79/month but is overkill for all but the most heavyweight use cases. The $29/month plan supports 10,000 form submissions and is sufficient in almost all cases. See [https://www.jotform.com/pricing](https://www.google.com/url?q=https://www.jotform.com/pricing&sa=D&source=editors&ust=1612994048910000&usg=AOvVaw3TVfX8yWa4Qu1MWPiMr3Vr) for details.
+‌JotForm has both free and paid tiers. As of March 2021:
+
+The most expensive plan is $79/month but is overkill for all but the most heavyweight use cases. The $29/month plan supports 10,000 form submissions and is sufficient in almost all cases. 
+
+See [**Pricing**](https://www.jotform.com/pricing) for details.
 
 ## Alternative / Similar Tools <a id="h.ru44st8agyw1"></a>
 
@@ -69,11 +73,11 @@ This tool integrates well with the following tools:
 
 Integration with Power Automate is straightforward for basic use cases. However, if access to uploaded files is required, it is significantly more complicated and multiple steps are required. This [webpage](https://www.jotform.com/answers/2358500-how-to-upload-the-files-in-a-submission-to-sharepoint-through-power-automate) describes approximately how to do it. It requires changing form access settings, then using the HTTP connector. This is a multi-step process as the URLs provided by JotForm 301 to the final file destination, so multiple HTTP connector steps are needed. 
 
-This tool does NOT integrate well with the following tools:
+\*\*\*\*🛑 **This tool does NOT integrate well with the following tools:**
 
-* 🔴SharePoint - connecting JotForm to SharePoint requires using Power Automate, so while it is possible to do so, it requires an extra tool that must be monitored. If you need to move files from JotForm to SharePoint, you have to deal with the hurdles mentioned above.
+* **SharePoint** - connecting JotForm to SharePoint requires using Power Automate, so while it is possible to do so, it requires an extra tool that must be monitored. If you need to move files from JotForm to SharePoint, you have to deal with the hurdles mentioned above.
   * Note: if you can replace SharePoint in the workflow with OneDrive, your life should be considerably easier now that JotForm has a OneDrive integration.
-* 🔴Power Automate - we have also run into issues with using Power Automate and JotForm together. Sometimes the data from JotForm is not populated in the Power Automate trigger - see this [support ticket](https://www.jotform.com/answers/2125992-problem-with-the-integration-with-microsoft-flow-power-automate) for an example. At this point, I would _not_ recommend starting a new project where Power Automate is used with JotForm. 
+* **Power Automate** - we have also run into issues with using Power Automate and JotForm together. Sometimes the data from JotForm is not populated in the Power Automate trigger - see this [support ticket](https://www.jotform.com/answers/2125992-problem-with-the-integration-with-microsoft-flow-power-automate) for an example. At this point, I would _not_ recommend starting a new project where Power Automate is used with JotForm. 
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
@@ -89,10 +93,12 @@ JotForm can generally just be left on its own without hitting any issues, as lon
 
 ## Security Level
 
-Forms can be encrypted at rest and some plans have PCI and HIPAA compliance. More details at https://www.jotform.com/security/
+Forms can be encrypted at rest and some plans have PCI and HIPAA compliance. [More security details here](https://www.jotform.com/security/). 
 
 {% hint style="danger" %}
-The security level is: **PRIVATE / HIGH SECURITY** - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject.
+The security level is: **PRIVATE / HIGH SECURITY** - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject. 
+
+💡 Tip: [**Review these security considerations to assess this tool**](usdr-tool-guidelines/data-security.md#security-how-sensitive-is-the-data)\*\*\*\*
 {% endhint %}
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
