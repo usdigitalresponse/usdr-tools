@@ -4,7 +4,7 @@ description: Scheduling tool
 
 # Picktime
 
-Updated: Mar 2, 2021
+Updated: Mar 22, 2021
 
 ![](.gitbook/assets/picktime_logo.png)
 
@@ -114,13 +114,13 @@ The selection of this tool was based on the ease of use and maintenance for the 
 
 ‌None identified yet.
 
+## Wait, there's something else! <a id="h.citc7idtx8n3"></a>
+
+It’s worth noting here that you can use Airtable to build a booking system as well. There is a template to get you started in that regard. The challenge is that you have to manually create and maintain the tables and relationships in Airtable over time. The reason we shifted to Picktime was the **significantly low maintenance of the system** once it is configured.
+
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
 A [blog](https://blog.picktime.com/) and a comprehensive [Help Center](https://support.picktime.com/) are available along with video tutorials.
-
-## Hmm, What Else? <a id="h.citc7idtx8n3"></a>
-
-It’s worth noting here that you can use Airtable to build a booking system as well. There is a template to get you started in that regard. The challenge is that you have to manually create and maintain the tables and relationships in Airtable over time. The reason we shifted to Picktime was the **significantly low maintenance of the system** once it is configured.
 
 ## Share your experience with this tool
 
