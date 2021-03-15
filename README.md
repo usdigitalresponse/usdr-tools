@@ -15,7 +15,22 @@ Choosing a tool for a project is no small feat. There are numerous consideration
 3. If you have experience with, tips, or an update for a tool that you feel may help other volunteers, [share it here](https://form.jotform.com/210477511316045) so we can add it in its tool page.
 4. Find the documentation helpful - or not? Give it a thumbs up or down at the bottom of every page, so we can improve the content.
 
+## 🛠 Find a tool by category:
+
+* Analytics
+* Communications
+* Data
+* Design
+* Forms
+* Hosting
+* Productivity
+* Services
+
 ## ❤ About This Resource
 
 This tools repository was created by volunteers at USDR to consolidate all the tools information, recommendations, learnings, and guidelines in choosing a tool, in one place. This resource will help you make a smarter and faster decision on the right tool for your project/Partner.
+
+## 💬 Questions, comments?
+
+Reach out on Slack to Marine Thibault, Bindu Gakhar, or the Operations & Tools team on **\#teams-ops-and-tools** channel..
 

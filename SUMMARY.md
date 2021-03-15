@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Guidelines](usdr-tool-guidelines.md)
-* [Get Started](getstarted.md)
 
 ## Analytics
 
