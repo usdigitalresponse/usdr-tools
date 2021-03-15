@@ -97,8 +97,10 @@ Forms can be encrypted at rest and some plans have PCI and HIPAA compliance. [Mo
 
 {% hint style="danger" %}
 The security level is: **PRIVATE / HIGH SECURITY** - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject. 
+{% endhint %}
 
-💡 Tip: [**Review these security considerations to assess this tool**](usdr-tool-guidelines/data-security.md#security-how-sensitive-is-the-data)\*\*\*\*
+{% hint style="info" %}
+[**Review these security considerations to assess this tool**](usdr-tool-guidelines/data-security.md#security-how-sensitive-is-the-data)\*\*\*\*
 {% endhint %}
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
