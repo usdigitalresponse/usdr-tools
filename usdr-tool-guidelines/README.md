@@ -144,7 +144,7 @@ Know the security needs and your partner’s security protocol! ‌Does your pro
 
 1. Does the app vendor provide notifications to customers about upgrades and changes \(e.g., scheduled maintenance, new releases, software/hardware changes\)?
 
-### **‌Try the tool!**
+### **‌Try The Tool!**
 
 A free trial period is preferred so your team can fully vet the tool and its functionality. Is a demo or trial available? Be sure to play with the tool and, if possible, build a prototype with false data to show the features.
 

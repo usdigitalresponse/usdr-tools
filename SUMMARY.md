@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Guidelines](usdr-tool-guidelines.md)
+* [Guidelines](usdr-tool-guidelines/README.md)
+  * [Data Security](usdr-tool-guidelines/data-security.md)
 
 ## Analytics
 
