@@ -6,11 +6,17 @@
 
 ## Analytics
 
+## Communications
+
+* [MailChimp](communications/mailchimp.md)
+
 ## Data
 
 ## Design
 
 ## Forms
+
+## Hosting
 
 ---
 
@@ -23,11 +29,9 @@
 * [Asana](asana.md)
 * [Picktime](picktime.md)
 
-## Hosting
+## SECURITY & RELIABILITY <a id="security-reliability"></a>
 
-## Communications
+## SOCIAL
 
-* [MailChimp](communications/mailchimp.md)
-
-## NEW CATEGORY
+* [Untitled](social/untitled.md)
 
