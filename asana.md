@@ -96,6 +96,10 @@ It’s easy to [report issues online](https://forum.asana.com/t/how-to-report-a-
 The security level is: **MEDIUM**  - Information or data that is used for USDR internal purposes but should not be disclosed to unauthorized parties outside of USDR. Does not contain personal data or intellectual property information and has no potential legal or regulatory impacts.
 {% endhint %}
 
+{% hint style="info" %}
+[**Review these security considerations to assess this tool**](usdr-tool-guidelines/data-security.md#security-how-sensitive-is-the-data)\*\*\*\*
+{% endhint %}
+
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
 I have used Asana to manage multiple ongoing projects with different personnel.
