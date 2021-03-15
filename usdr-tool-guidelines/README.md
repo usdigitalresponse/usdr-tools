@@ -4,40 +4,26 @@ description: Checklist of considerations when evaluating a software tool
 
 # Guidelines
 
-**What you’ll find in this document:**  
+What you’ll find in this document:
 
-
-**How to choose the right tool**
-
-**Prioritize, prioritize**
-
-**Prefer low-code or no-code tools**
-
-**Vetting Considerations**
-
-**Partner Requirements**
-
-**Procurement**
-
-**Reliable vendor**
-
-**Security: How sensitive is the data?‌**
-
-**‌Try the tool!**
-
-**Support**
-
-**Interoperability**
-
-**Deployment & Hand-off**
-
-**Training & Resources**
-
-**Maintenance & Monitoring**
-
-**Other \(landmines\)**
-
-**‌Build your own custom tool**
+* [**How to choose the right tool**](./#how-to-choose-the-right-tool)\*\*\*\*
+* [**Prioritize, prioritize**](./#prioritize-prioritize)\*\*\*\*
+* [**Prefer low-code or no-code tools**](./#prefer-low-code-or-no-code-tools)\*\*\*\*
+* \*\*\*\*[**Vetting Considerations**](./#vetting-considerations)\*\*\*\*
+* \*\*\*\*[**Partner Requirements**](./#partner-requirements)\*\*\*\*
+* \*\*\*\*[**Procurement**](./#partner-requirements)\*\*\*\*
+* \*\*\*\*[**Reliable vendor**](./#reliable-vendor)\*\*\*\*
+* \*\*\*\*[**Security: How sensitive is the data?**](./#security-how-sensitive-is-the-data)\*\*\*\*
+* **‌**[**Try the tool!**](./#try-the-tool)\*\*\*\*
+* \*\*\*\*[**Support**](./#support)\*\*\*\*
+* \*\*\*\*[**Interoperability**](./#interoperability)\*\*\*\*
+* \*\*\*\*[**Deployment**](./#deployment)\*\*\*\*
+* \*\*\*\*[**Hand-off**](./#hand-off)\*\*\*\*
+* \*\*\*\*[**Training & Resources**](./#training-and-resources)\*\*\*\*
+* \*\*\*\*[**Maintenance & Monitoring**](./#maintenance-and-monitoring)\*\*\*\*
+* \*\*\*\*[**Other Landmines**](./#other-landmines)\*\*\*\*
+* **‌**[**Build your own custom tool**](./#build-your-own-custom-tool)\*\*\*\*
+* \*\*\*\*[**Get help!**](./#still-unsure-about-which-tool-to-use-we-can-help)\*\*\*\*
 
 ## **How to choose the right tool**
 
@@ -170,7 +156,7 @@ You’ll want to anticipate what maintenance looks like after hand-off and what 
 3. How reliable is the tool when left alone?
 4. Is it easy to detect and address errors/issues?
 
-### **Other \(landmines\)**
+### **Landmines**
 
 Other areas to watch out for and ask yourself include:
 
@@ -196,7 +182,5 @@ While we highly encourage the use of existing tools, there are also good reasons
 
 ## 🤯Still unsure about which tool to use? We can help.
 
-The [**Operations & Tools team**](https://www.notion.so/usdr/Operations-Tools-Team-b98408c4f41648fd90065db74c4d3ab7) is a shout away and will help you identify the right tool\(s\) for your project. 
-
-Or ask for advice on Slack at [\#questions-tools](https://www.notion.so/usdr/question-tools-1575f6089b7c46c6bf2bcae8993be474)
+The [**Operations & Tools team**](https://www.notion.so/usdr/Operations-Tools-Team-b98408c4f41648fd90065db74c4d3ab7) is a shout away and will help you identify the right tool\(s\) for your project. Or ask for advice on Slack at [\#questions-tools](https://www.notion.so/usdr/question-tools-1575f6089b7c46c6bf2bcae8993be474)
 
