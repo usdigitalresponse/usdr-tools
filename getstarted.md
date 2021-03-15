@@ -19,13 +19,5 @@ Find a tool by category:
 * Services
 * Communications
 
-### **Analytics** 
-
-* [Tool template page](tool-template.md)
-
-
-
-Embed Airtable Tools list? \(this list is only those with accounts\)
-
 
 

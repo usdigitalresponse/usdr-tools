@@ -3,42 +3,31 @@
 * [Introduction](README.md)
 * [Guidelines](usdr-tool-guidelines.md)
 * [Get Started](getstarted.md)
-* [ADMIN ONLY](admin-only.md)
-* [\[TOOL PAGE TEMPLATE\]](tool-template.md)
-* [Analytics Tools](analytics_tools/README.md)
-  * [Amplitude](analytics_tools/amplitude1.md)
 
-## Analytics Tools
+## Analytics
 
-* [Amplitude](analytics-tools/amplitude2.md)
+## Data
 
-## Data Tools
+## Design
 
-* [Tableau](data-tools/tableau.md)
-
-## Design Tools
-
-* [Miro](design-tools/miro.md)
-* [Figma](design-tools/figma.md)
-
-## Forms Tools
+## Forms
 
 ---
 
 * [JotForm](jot-form.md)
 
-## Productivity Tools
+## Productivity
 
 ---
 
 * [Asana](asana.md)
 * [Picktime](picktime.md)
 
-## Hosting Tools
+## Hosting
 
-## Communications Tools
+## Communications
 
-* [MailChimp](communications-tools/mailchimp.md)
+* [MailChimp](communications/mailchimp.md)
 
 ## NEW CATEGORY
 
