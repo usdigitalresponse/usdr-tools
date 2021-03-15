@@ -100,23 +100,23 @@ The selection of this tool was based on the ease of use and maintenance for the 
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-\*\*\*\*🏆 **PROCEED!** What this tool is great for…
+\*\*\*\*🏆 **What this tool is great for:**
 
 * This tool is great for a partner that is looking for a simple and easy to maintain online booking system.
 * The time to stand this up is minimal and it meets needs quickly and effectively.
 
-\*\*\*\*🌵 **BEWARE!** What's hard to do with this tool…
+\*\*\*\*🌵 **What's hard to do with this tool:**
 
 * There really weren’t any challenges that I encountered. I did not set up the API’s so there may be some pitfalls there.
 * It is important to make sure the partner understands it is a fairly new product and there is the risk of them going under but, honestly, the effort to set it up is minimal enough that the reward likely outweighs the risk.
 
 ## Other Landmines
 
-‌None identified.
+‌None identified yet.
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
-HOW-TO videos and an FAQ are available.
+A [blog](https://blog.picktime.com/) and a comprehensive [Help Center](https://support.picktime.com/) are available along with video tutorials.
 
 ## Hmm, What Else? <a id="h.citc7idtx8n3"></a>
 
