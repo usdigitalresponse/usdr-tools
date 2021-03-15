@@ -23,8 +23,8 @@ You can contact this author for basic support.
 
 ## Tags <a id="h.6mnfw9pne09c"></a>
 
-* 🔧 Low-code
-* 🎁 Free
+* 🔧  Low-code
+* 🎁  Free
 
 ## Category <a id="h.275oysyrlu3w"></a>
 
