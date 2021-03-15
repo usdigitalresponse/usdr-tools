@@ -4,7 +4,7 @@ description: Project management
 
 # Asana
 
-Last Updated: Mar. 2,  2021
+Updated: Mar. 2,  2021
 
 ![](.gitbook/assets/asana.png)
 
