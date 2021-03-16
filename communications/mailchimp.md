@@ -59,15 +59,17 @@ In Mailchimp, landing pages live alongside other campaign types. Landing pages a
 
 This tool integrates well with the following tools:
 
-* Zoom
+* [**Calendly**](https://mailchimp.com/integrations/calendly/)
+* [**Eventbrite**](https://mailchimp.com/integrations/eventbrite/)
+* Many e-commerce sites - see Mailchimp.com for full list
 
 This tool does NOT integrate well with the following tools:
 
-* None identified
+* Wordpress.com sites
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
-‌_In progress..._
+‌Vendor Support comes in many varieties - email, website, online chat, phone.  Premium support available at extra cost.
 
 ## Maintenance
 
@@ -87,11 +89,25 @@ _In progress..._.
 
 ## How I've Used This Tool <a id="h.flwakkvuwzba"></a>
 
-‌_In progress..._
+‌I created a landing page to register for a roadshow. 
+
+1. Easy to add assets and text boxes
+2. Reusable forms to gather information
+3. Contact information is stored in Audiences and can be exported as a segment for further reach out.
+   1. This data can be exported as an excel with information gathered in the registration form.
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-_In progress..._
+PROCEED! What this tool is great for…  all-in-one tool where you can manage your mailing lists, create custom email templates, and nurture and automate your entire marketing campaigns. 
+
+BEWARE! What's hard to do with this tool …  ‌
+
+* Customize elements within the page that do not confine to their preset elements, e.g., must have text and photo asset - cannot have a video asset uploaded. 
+* No customizable fonts - Mailchimp have a limited set that they provide and you cannot download others to use
+* High-cost subscription plans.
+* Limited e-mail automation.
+
+\*\*\*\*
 
 ## Other Landmines
 
@@ -99,7 +115,7 @@ _In progress..._
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
-‌_In progress..._
+‌‌Mailchimp has several online guides and resources at mailchimp.com. A robust HELP section and hundreds of articles on research and thought leadership are also available. You can find additional help on this discussion [forum](https://www.g2.com/products/mailchimp/discuss).
 
 \_\_
 
