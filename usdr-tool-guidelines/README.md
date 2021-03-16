@@ -117,8 +117,8 @@ Understand all internal/external support needs.
 
 ### **Interoperability**
 
-1. **Can the tool integrate with the partner's system\(s\) and other required tools? Identify any other systems which the tool will need to integrate with.**
-2. **Test all necessary integrations.**
+1. Can the tool integrate with the partner's system\(s\) and other required tools? Identify any other systems which the tool will need to integrate with.
+2. Test all necessary integrations.
 
 ### **Deployment**
 
