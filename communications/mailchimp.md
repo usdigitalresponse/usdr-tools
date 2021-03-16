@@ -103,7 +103,7 @@ PROCEED! What this tool is great for…  all-in-one tool where you can manage yo
 BEWARE! What's hard to do with this tool …  ‌
 
 * Customize elements within the page that do not confine to their preset elements, e.g., must have text and photo asset - cannot have a video asset uploaded. 
-* No customizable fonts - Mailchimp have a limited set that they provide and you cannot download others to use
+* No customizable fonts - Mailchimp have a limited set that they provide and you cannot download others to use.
 * High-cost subscription plans.
 * Limited e-mail automation.
 
