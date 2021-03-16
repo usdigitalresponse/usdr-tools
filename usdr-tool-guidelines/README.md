@@ -99,7 +99,7 @@ Know the security needs and your partner’s security protocol! ‌Does your pro
 8. Is the tool updated to the latest version?
 9. Does the tool provide access management? Will you be alerted if there’s unusual login activity?
 
-**Other important security considerations**
+\*\*\*\*[**Other important security considerations**](data-security.md)\*\*\*\*
 
 Security is paramount. If you have any question, please reach out to USDR security point of contact   [Kevin Tan](mailto:kevin.tan@usdigitalresponse.org).
 
