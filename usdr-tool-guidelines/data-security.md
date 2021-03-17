@@ -4,6 +4,10 @@ description: More considerations around data sensitivity and choice of tool
 
 # Data Security
 
+{% hint style="success" %}
+[**Read about USDR Data & Software Guidelines**](https://policies.usdigitalresponse.org/data-and-software-guidelines)\*\*\*\*
+{% endhint %}
+
 ## **Security: How sensitive is the data?‌**
 
 Know the security needs and your partner’s security protocol! ‌Does your project deal with private or sensitive data? Ask yourselves these questions:
@@ -46,7 +50,7 @@ Know the security needs and your partner’s security protocol! ‌Does your pro
 
 ## **Business Continuity**
 
-1. Does the app vendor provide notifications to customers about upgrades and changes \(e.g., scheduled maintenance, new releases, software/hardware changes\)?
+Does the app vendor provide notifications to customers about upgrades and changes \(e.g., scheduled maintenance, new releases, software/hardware changes\)?
 
 ## Need Help With Security?
 
