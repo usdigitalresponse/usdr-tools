@@ -126,7 +126,7 @@ It’s worth noting here that you can use Airtable to build a booking system as 
 
 ## Training Resources <a id="h.jjhr8ylgtcxa"></a>
 
-A [blog](https://blog.picktime.com/) and a comprehensive [Help Center](https://support.picktime.com/) are available along with video tutorials.
+A [blog](https://blog.picktime.com/) and a comprehensive [Help Center](https://support.picktime.com/) are available along with [video tutorials](https://support.picktime.com/container/show/14453).
 
 
 
