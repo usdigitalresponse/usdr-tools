@@ -98,9 +98,9 @@ _In progress..._.
 
 ## Lessons Learned <a id="h.9j1dk9qzdv6e"></a>
 
-PROCEED! What this tool is great for…  all-in-one tool where you can manage your mailing lists, create custom email templates, and nurture and automate your entire marketing campaigns. 
+**What this tool is great for:** all-in-one tool where you can manage your mailing lists, create custom email templates, and nurture and automate your entire marketing campaigns. 
 
-BEWARE! What's hard to do with this tool …  ‌
+**What's hard to do with this tool:** ‌
 
 * Customize elements within the page that do not confine to their preset elements, e.g., must have text and photo asset - cannot have a video asset uploaded. 
 * No customizable fonts - Mailchimp have a limited set that they provide and you cannot download others to use.
