@@ -4,7 +4,7 @@ description: A comprehensive resource on software tools
 
 # Introduction
 
-**Looking for a tool to support your project?** The USDR Tools Playbook contains a list of vetted commercial-off-the-shelf software tools and a detailed set of guidelines to help you choose the right tool for your project.
+**Looking for a software tool for your project?** The USDR Tools Playbook contains a list of vetted commercial-off-the-shelf software tools and a detailed set of guidelines to help you choose the right tool for your project.
 
 USDR volunteers successfully used and examined over 40 tools across a variety of categories. In this playbook, they share how they used a tool, its pros and cons, lessons learned, tips and tricks, as well as limitations. USDR has an account with most of these tools, making it easier to explore their capabilities and build prototypes.
 
