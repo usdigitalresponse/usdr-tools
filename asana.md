@@ -80,7 +80,9 @@ This tool does NOT integrate well with the following tools:
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
-‌Asana Advisors can provide onboarding support and answer more specific product questions.
+[Support center](https://asana.com/support)‌
+
+Asana Advisors can provide onboarding support and answer more specific product questions.
 
 ## Maintenance <a id="h.fk85mkv3i8oh"></a>
 
