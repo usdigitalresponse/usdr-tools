@@ -81,6 +81,8 @@ Integration with Power Automate is straightforward for basic use cases. However,
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
+Jotform has a comprehensive [support center](https://www.jotform.com/faq/) online.
+
 I’ve never actually needed  to contact their support. There is a pretty rich amount of information available via Google as they have many forum posts. They appear to be quite responsive in that setting.
 
 ## Maintenance <a id="h.o456lrtyv134"></a>
