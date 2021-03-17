@@ -4,7 +4,7 @@ description: Create forms
 
 # JotForm
 
-Updated: Mar. 2, 2021
+Updated: Mar. 23, 2021
 
 ![](https://lh6.googleusercontent.com/hKped11JQn9HnVnVKXJXGT0sd33Rv4of2_pTslIMgP-l115v1kP-xPHmBOa0plM_7AZS0a1X-gbMzdOhYFZqSqj-z5Jy54uSmVQzGsAobu1Jg3LzMb9scusYCVIYqzZ3uH2MKHGx)
 
