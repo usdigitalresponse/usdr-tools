@@ -67,6 +67,8 @@ This tool does NOT integrate well with the following tools:
 
 ## Vendor Support <a id="h.e50orjda7y75"></a>
 
+[Help Center](https://support.picktime.com/)
+
 I did not have the need to contact support, it’s pretty straightforward to set up and manage.
 
 Vendor does offer video tutorials and a robust help FAQ for reference. There is also a contact mechanism for problems not answered by these resources.
