@@ -85,11 +85,11 @@ _In progress..._.
 
 Application Level Security -
 
-* Mailchimp account passwords are hashed. Our own staff can't even view them. If you lose your password, it can't be retrieved—it must be reset.
+* Mailchimp account passwords are hashed. The Mailchimp staff can't even view them. If you lose your password, it can't be retrieved—it must be reset.
 * All login pages \(from our website and mobile website\) pass data via TLS.
 * The entire Mailchimp application is encrypted with TLS.
 * Login pages and logins via the Mailchimp API have brute force protection.
-* We perform regular external security penetration tests throughout the year using different vendors. The tests involve high-level server penetration tests, in-depth testing for vulnerabilities inside the application, and social engineering drills.
+* Mailchimp performs regular external security penetration tests throughout the year using different vendors. The tests involve high-level server penetration tests, in-depth testing for vulnerabilities inside the application, and social engineering drills.
 
 {% hint style="danger" %}
 PRIVATE / HIGH SECURITY - Information related to the USDR volunteers or government partners that, if disclosed, may lead to legal or regulatory repercussions including securities violations and mandated data breach reporting. May contain personal data with other related legal or regulatory privacy requirements or obligations. Improper or unauthorized collection, use, disclosure, retention, or disposal may pose some risk to the data subject.‌
