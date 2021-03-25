@@ -11,6 +11,7 @@ What you’ll find in this document:
 * [**Prefer low-code or no-code tools**](./#prefer-low-code-or-no-code-tools)\*\*\*\*
 * \*\*\*\*[**Vetting Considerations**](./#vetting-considerations)\*\*\*\*
 * \*\*\*\*[**Partner Requirements**](./#partner-requirements)\*\*\*\*
+* \*\*\*\*[**Scalability**](./#scalability)\*\*\*\*
 * \*\*\*\*[**Procurement**](./#partner-requirements)\*\*\*\*
 * \*\*\*\*[**Reliable vendor**](./#reliable-vendor)\*\*\*\*
 * \*\*\*\*[**Security: How sensitive is the data?**](./#security-how-sensitive-is-the-data)\*\*\*\*
