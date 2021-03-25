@@ -65,12 +65,16 @@ After careful consideration of off-the-shelf tools, you and the partner are left
 
 It is imperative to understand your partner’s tool requirements.
 
-1. Don’t rely on just what they tell you up front – dig a bit deeper to uncover any other needs they didn’t consider or realize they needed. Ask leading questions and about current scenarios. 
-2. It is also helpful to prioritize the needs from got-to-have-it through nice-to-have. 
+1. Don’t rely on just what they tell you up front – dig a bit deeper to uncover any other needs they didn’t consider or realize they needed. Ask leading questions and understand current scenarios. 
+2. It is also helpful to prioritize the needs from got-to-have-it to nice-to-have. 
 3. Cover all stakeholders – internal and external. 
 4. Determine communication needs -  e.g., phone, website, app, email and/or text reminders \(via SMS\), internal/external dashboards, emergency alerts. 
 5. Does the partner require metrics to monitor usage, issues, status, etc.?
-6. HINT: A process map helps the partner visualize what they will get! It can help eliminate misunderstandings and unrealistic expectations. 
+6. Tip: A process map helps the partner visualize what they will get! It can help eliminate misunderstandings and unrealistic expectations. 
+
+### Scalability
+
+Does the partner expect the choice of tool to allow the solution to scale, or they have a short term need? This will determine how scalable the tool must be. One scenario may be such that a partner expects a scalable solution and  a very quick deployment. If no one tool can achieve both goals, a compromise would be to choose a tool for the short-term and recommend a transition plan for the long-term.
 
 ### **Procurement**
 
