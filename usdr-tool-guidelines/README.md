@@ -75,7 +75,7 @@ It is imperative to understand your partner’s tool requirements.
 
 ### Scalability
 
-Does the partner expect the choice of tool to allow the solution to scale, or they have a short term need? This will determine how scalable the tool must be. One scenario may be such that a partner expects a scalable solution and  a very quick deployment. If no one tool can achieve both goals, a compromise would be to choose a tool for the short-term and recommend a transition plan for the long-term.
+Does the partner expect expect the delivered solution to scale, or do they have a short term need? This will determine how scalable the tool must be. One scenario may be such that a partner expects a scalable solution and  a very quick deployment. If no one tool can achieve both goals, a compromise would be to choose a tool for the short-term and recommend a transition plan for the long-term.
 
 ### **Procurement**
 
