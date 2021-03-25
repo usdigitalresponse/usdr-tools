@@ -63,7 +63,7 @@ This tool integrates well with the following tools:
 * [**Eventbrite**](https://mailchimp.com/integrations/eventbrite/)
 * Many e-commerce sites - see Mailchimp.com for full list
 
-This tool does NOT integrate well with the following tools:
+💣 This tool does NOT integrate well with the following tools:
 
 * Wordpress.com sites
 
