@@ -132,6 +132,7 @@ Almost any basic form task -- JotForm is quite good.
 3. JotForm may not be a good fit if you only need to build simple forms. FOr example., if you are using a product like AirTable \(or GSuite\) that has its own forms and they are good enough for what you need to do. JotForm introduces another procurement hurdle and another tool to integrate. That being said, JotForm’s user experience is also nice, so even in those cases, you find it is a good choice.
 4. JotForm &lt;-&gt; SharePoint is not as easy as some other tool integrations.
 5. JotForm's Power Automate integration has known issues as outlined above.
+6. When you set error messages on fields, you can only choose an error message for each particular type of input data, not on the field itself. For example, if you want to set a limit on multiple numeric fields, you can, but you can only show _one_ error message for all of them. This makes it hard to have very field-specific error messages.
 
 ## Other Landmines
 
