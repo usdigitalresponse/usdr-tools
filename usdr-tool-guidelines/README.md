@@ -7,8 +7,8 @@ description: Checklist of considerations when evaluating a software tool
 What you’ll find in this document:
 
 * [**How to choose the right tool**](./#how-to-choose-the-right-tool)\*\*\*\*
-* [**Prioritize, prioritize**](./#prioritize-prioritize)\*\*\*\*
-* [**Prefer low-code or no-code tools**](./#prefer-low-code-or-no-code-tools)\*\*\*\*
+* \*\*\*\*[**Prioritize, prioritize**](./#prioritize-prioritize)\*\*\*\*
+* \*\*\*\*[**Prefer low-code or no-code tools**](./#prefer-low-code-or-no-code-tools)\*\*\*\*
 * \*\*\*\*[**Vetting Considerations**](./#vetting-considerations)\*\*\*\*
 * \*\*\*\*[**Partner Requirements**](./#partner-requirements)\*\*\*\*
 * \*\*\*\*[**Scalability**](./#scalability)\*\*\*\*
@@ -26,7 +26,7 @@ What you’ll find in this document:
 * **‌**[**Build your own custom tool**](./#build-your-own-custom-tool)\*\*\*\*
 * \*\*\*\*[**Get help!**](./#still-unsure-about-which-tool-to-use-we-can-help)\*\*\*\*
 
-## **How to choose the right tool**
+## \*\*\*\*🤔 **How to choose the right tool**
 
 Your team or partner needs a tool to fill a need and after browsing online or through the list of USDR-vetted tools, you spotted what seems like the perfect tool for your project.‌ But wait! Have you considered security requirements in case the data handled is sensitive? Do you know how and who will maintain the tool after handover to your partner, especially if they don’t have a technical team onsite? Is there a cost up front or through maintenance? Not sure what else to consider? We’ve got you. 
 
@@ -60,7 +60,7 @@ If you feel you need a tool not on the list, consider the following vetting stra
 
 After careful consideration of off-the-shelf tools, you and the partner are left with no other choice than building your own custom tool: please [follow these guidelines](https://docs.google.com/document/d/12-lxhrZPtFNyydbk-m52Uycj5Kovduss17bSdwzcklE/edit#heading=h.zchlscy5p4f9).
 
-## **Vetting Considerations**
+## \*\*\*\*⚖ **Vetting Considerations**
 
 ### **Partner Requirements**
 
@@ -172,7 +172,7 @@ Other areas to watch out for and ask yourself include:
    1. Does the partner own the data? 
    2. Can the data be easily migrated in the future in a standard, machine-readable format?**‌**
 
-### **‌Build your own custom tool**
+## **‌** 🛠 **Build a custom tool**
 
 Here are important considerations for building your own open source, customized tool.
 
