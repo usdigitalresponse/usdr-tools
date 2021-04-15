@@ -4,7 +4,7 @@ description: A comprehensive resource on software tools
 
 # Introduction
 
-**Looking for a software tool for your project?** The USDR Tools Playbook contains a list of vetted commercial-off-the-shelf software tools and a detailed set of guidelines to help you choose the right tool for your project.
+**Looking for a software tool for your project?** The USDR Tools Playbook contains a \(growing\) list of vetted commercial-off-the-shelf software tools and a detailed set of guidelines to help you choose the right tool for your project.
 
 USDR volunteers successfully used and examined over 40 tools across a variety of categories. In this playbook, they share how they used a tool, its pros and cons, lessons learned, tips and tricks, as well as limitations. USDR has an account with most of these tools, making it easier to explore their capabilities and build prototypes.
 
@@ -19,6 +19,8 @@ Choosing a tool for a project is no small feat. There are numerous important con
 5. Please read existing documentation about ****[**all things access, troubleshooting, and IT**](https://www.notion.so/usdr/question-tools-1575f6089b7c46c6bf2bcae8993be474) on Notion.
 
 ## 🛠 Find A Tool By Category
+
+Note: Tools are being added on an on-going basis to the list. We aim to have at least 40 tools! If the tool you're looking for is not listed, please reach out on the Slack channel **\#questions-tools**.
 
 * Analytics
 * Communications
