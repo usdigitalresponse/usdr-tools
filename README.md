@@ -1,5 +1,5 @@
 ---
-description: A comprehensive resource on software tools
+description: A comprehensive resource on selecting and applying software tools
 ---
 
 # Introduction
